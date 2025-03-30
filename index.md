@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Undergraduate Thesis](https://github.com/dheneck/dheneck.github.io/blob/master/pdf/Thesis%20Final.pdf)
-- [Currciulum Vitae](http://example.com/)
+- [Currciulum Vitae](https://github.com/dheneck/dheneck.github.io/blob/master/pdf/New%20CV%20PDF.pdf)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
