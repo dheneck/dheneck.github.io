@@ -6,7 +6,7 @@
 
 [Undergraduate Thesis](/sample_page)
 https://github.com/dheneck/dheneck.github.io/blob/master/pdf/Thesis%20Final.pdf
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/sugar.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
