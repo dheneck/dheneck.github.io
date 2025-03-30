@@ -4,8 +4,8 @@
 
 ### Reserach Papers
 
-[Undergraduate Thesis](/sample_page)
-https://github.com/dheneck/dheneck.github.io/blob/master/pdf/Thesis%20Final.pdf
+[Undergraduate Thesis](https://github.com/dheneck/dheneck.github.io/blob/master/pdf/Thesis%20Final.pdf
+)
 <img src="images/sugar.png?raw=true"/>
 
 ---
