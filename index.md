@@ -22,7 +22,7 @@ Investigating the Supply-side effects of a tax on Sugar-Sweetened Beverages in S
 
 - [Undergraduate Thesis](https://github.com/dheneck/dheneck.github.io/blob/master/pdf/Thesis%20Final.pdf)
 - [Currciulum Vitae](https://github.com/dheneck/dheneck.github.io/blob/master/pdf/New%20CV%20PDF.pdf)
-- [Project 3 Title](http://example.com/)
+- [Linkedin](https://www.linkedin.com/in/daniel-heneck-049b28113/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
