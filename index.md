@@ -5,8 +5,9 @@
 ### Reserach Papers
 
 [Undergraduate Thesis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 https://github.com/dheneck/dheneck.github.io/blob/master/pdf/Thesis%20Final.pdf
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
