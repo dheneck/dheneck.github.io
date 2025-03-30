@@ -4,8 +4,7 @@
 
 ### Reserach Papers
 
-[Undergraduate Thesis](https://github.com/dheneck/dheneck.github.io/blob/master/pdf/Thesis%20Final.pdf
-)
+[Undergraduate Thesis](https://github.com/dheneck/dheneck.github.io/blob/master/pdf/Thesis%20Final.pdf)
 <img src="images/sugar.png?raw=true"/>
 
 ---
@@ -21,7 +20,7 @@
 ### Category Name 2
 
 - [Undergraduate Thesis](https://github.com/dheneck/dheneck.github.io/blob/master/pdf/Thesis%20Final.pdf)
-- [Project 2 Title](http://example.com/)
+- [Currciulum Vitae](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
