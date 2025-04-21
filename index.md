@@ -9,7 +9,8 @@ Investigating the Supply-side effects of a tax on Sugar-Sweetened Beverages in S
 <img src="images/sugar.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Framing Immigration: A Comparative Sentiment Analysis of Irish
+Party Manifestos and Parliamentary Speeches (2020–2024)](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
