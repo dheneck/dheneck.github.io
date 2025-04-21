@@ -16,7 +16,7 @@ Party Manifestos and Parliamentary Speeches (2020–2024)](pdf/QTA-Final-Markdow
 ---
 [Is Political Trust Multidimensional? A Principal Component
 Analysis of EU Countries](pdf/Dimensionality-Reduction-Final.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot 2025-04-21 141932.png"/>
 
 ---
 
