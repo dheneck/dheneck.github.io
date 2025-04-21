@@ -1,9 +1,9 @@
 title: Daniel Heneck # your name (or website title) here
 logo: "/images/Screenshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  description: > 
-  <p>Currently pursuing a Master's in Applied Social Data Science at Trinity College, Dublin. </p>
-  <p><a href="https://www.linkedin.com/in/daniel-heneck-049b28113/" target="_blank">LinkedIn</a></p>
+  Currently pursuing a Master's in Applied Social Data Science at Trinity College, Dublin 
+  <br><br>
+  <a href="https://www.linkedin.com/in/daniel-heneck-049b28113/</a> 
 
   
 remote_theme: pages-themes/minimal@v0.2.0
