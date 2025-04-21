@@ -10,11 +10,12 @@ Investigating the Supply-side effects of a tax on Sugar-Sweetened Beverages in S
 
 ---
 [Framing Immigration: A Comparative Sentiment Analysis of Irish
-Party Manifestos and Parliamentary Speeches (2020–2024)](/pdf/sample_presentation.pdf)
+Party Manifestos and Parliamentary Speeches (2020–2024)](pdf/QTA-Final-Markdown-File-New.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Is Political Trust Multidimensional? A Principal Component
+Analysis of EU Countries](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
