@@ -25,6 +25,16 @@
 
 ---
 
+## Dimensionality Reduction in Political Trust Data  
+**Exploring latent structure in cross-national survey responses using PCA and EFA**  
+
+Grade: 71% (Distinction)  
+
+[Read the research paper (PDF)](pdf/Dimensionality-Reduction-Final.pdf)
+![QTA Screenshot](images/qta.png)
+
+---
+
 ## Undergraduate Thesis  
 **Investigating the Supply-side effects of a tax on Sugar-Sweetened Beverages in South Africa**  
 
