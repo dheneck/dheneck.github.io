@@ -12,17 +12,17 @@
 
 ---
 
-## Undergraduate Thesis  
-**Investigating the Supply-side effects of a tax on Sugar-Sweetened Beverages in South Africa**  
-[Read the thesis (PDF)](pdf/Thesis_Final.pdf)  
-![Sugar SSB graph](images/sugar.png)
-
----
-
 ## Quantitative Text Analysis Research Project  (Masters)
 **Framing Immigration: A Comparative Sentiment Analysis of Irish Party Manifestos and Parliamentary Speeches (2020–2024)**  
 [Read the project (PDF)](pdf/QTA-Final-Markdown-File-New.pdf)  
 ![QTA Screenshot](images/qta.png)
+
+---
+
+## Undergraduate Thesis  
+**Investigating the Supply-side effects of a tax on Sugar-Sweetened Beverages in South Africa**  
+[Read the thesis (PDF)](pdf/Thesis_Final.pdf)  
+![Sugar SSB graph](images/sugar.png)
 
 ---
 
