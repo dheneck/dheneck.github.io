@@ -10,16 +10,17 @@ Investigating the Supply-side effects of a tax on Sugar-Sweetened Beverages in S
 <img src="images/sugar.png?raw=true"/>
 
 ---
+
+[Master's Thesis](pdf/Dissertation Final Draft.pdf)
+
+Minimum Unit Pricing in Ireland: A Quasi-Experimental Evaluation of Alcohol Prices, Consumption and Drink-Driving Offences
+
+---
+
 [Framing Immigration: A Comparative Sentiment Analysis of Irish
 Party Manifestos and Parliamentary Speeches (2020–2024)](pdf/QTA-Final-Markdown-File-New.pdf)
 
 <img src="images/Screenshot 2025-04-21 142155.png"/>
-
----
-[Is Political Trust Multidimensional? A Principal Component
-Analysis of EU Countries](pdf/Dimensionality-Reduction-Final.pdf)
-
-<img src="images/Screenshot 2025-04-21 141932.png"/>
 
 ---
 
