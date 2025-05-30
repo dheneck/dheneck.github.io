@@ -14,7 +14,8 @@
 ## Master's Thesis  
 **Minimum Unit Pricing in Ireland: A Quasi-Experimental Evaluation of Alcohol Prices, Consumption and Drink-Driving Offences**  
 [Read the dissertation (PDF)](pdf/Dissertation_Final_Draft.pdf)  
-![MUP Ireland Screenshot](images/Screenshot 2025-05-30 150539.png)
+
+![MUP Ireland Screenshot](images/mup-screenshot.png)
 
 ---
 
