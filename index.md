@@ -25,13 +25,13 @@
 
 ---
 
-## Dimensionality Reduction in Political Trust Data  
+## Dimensionality Reduction Research Project (Masters)
 **Exploring latent structure in cross-national survey responses using PCA and EFA**  
 
 Grade: 71% (Distinction)  
 
 [Read the research paper (PDF)](pdf/Dimensionality-Reduction-Final.pdf)
-![QTA Screenshot](images/qta.png)
+![Dimensionality Screenshot](images/dimensionality-reduction.png)
 
 ---
 
