@@ -22,7 +22,7 @@
 ## QTA Research Project  
 **Framing Immigration: A Comparative Sentiment Analysis of Irish Party Manifestos and Parliamentary Speeches (2020–2024)**  
 [Read the project (PDF)](pdf/QTA-Final-Markdown-File-New.pdf)  
-![QTA Screenshot](images/qta-screenshot.png)
+![QTA Screenshot](images/qta.png)
 
 ---
 
