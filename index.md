@@ -15,6 +15,7 @@ Investigating the Supply-side effects of a tax on Sugar-Sweetened Beverages in S
 
 Minimum Unit Pricing in Ireland: A Quasi-Experimental Evaluation of Alcohol Prices, Consumption and Drink-Driving Offences
 
+<img src="images/Screenshot 2025-05-30 150539.png"/>
 ---
 
 [Framing Immigration: A Comparative Sentiment Analysis of Irish
