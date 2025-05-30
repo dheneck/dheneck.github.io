@@ -26,7 +26,7 @@
 ---
 
 ## Dimensionality Reduction Research Project (Masters)
-**Is Political Trust Multidimensional?**  
+**Is Political Trust Multidimensional? A Principal Component Analysis of EU Countries**  
 
 Grade: 71% (Distinction)  
 
