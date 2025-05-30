@@ -26,11 +26,12 @@
 ---
 
 ## Dimensionality Reduction Research Project (Masters)
-**Exploring latent structure in cross-national survey responses using PCA and EFA**  
+**Is Political Trust Multidimensional?**  
 
 Grade: 71% (Distinction)  
 
 [Read the research paper (PDF)](pdf/Dimensionality-Reduction-Final.pdf)
+
 ![Dimensionality Screenshot](images/dimensionality-reduction.png)
 
 ---
