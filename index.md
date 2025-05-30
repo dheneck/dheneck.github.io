@@ -4,24 +4,24 @@
 
 ### Reserach Papers
 
-[Undergraduate Thesis](pdf/Thesis Final.pdf)
-
-Investigating the Supply-side effects of a tax on Sugar-Sweetened Beverages in South Africa
-<img src="images/sugar.png?raw=true"/>
+## Undergraduate Thesis  
+**Investigating the Supply-side effects of a tax on Sugar-Sweetened Beverages in South Africa**  
+[Read the thesis (PDF)](pdf/Thesis_Final.pdf)  
+![Sugar SSB graph](images/sugar.png)
 
 ---
 
-[Master's Thesis](pdf/Dissertation Final Draft.pdf)
+## Master's Thesis  
+**Minimum Unit Pricing in Ireland: A Quasi-Experimental Evaluation of Alcohol Prices, Consumption and Drink-Driving Offences**  
+[Read the dissertation (PDF)](pdf/Dissertation_Final_Draft.pdf)  
+![MUP Ireland Screenshot](images/Screenshot 2025-05-30 150539.png)
 
-Minimum Unit Pricing in Ireland: A Quasi-Experimental Evaluation of Alcohol Prices, Consumption and Drink-Driving Offences
-
-<img src="images/Screenshot 2025-05-30 150539.png"/>
 ---
 
-[Framing Immigration: A Comparative Sentiment Analysis of Irish
-Party Manifestos and Parliamentary Speeches (2020–2024)](pdf/QTA-Final-Markdown-File-New.pdf)
-
-<img src="images/Screenshot 2025-04-21 142155.png"/>
+## QTA Research Project  
+**Framing Immigration: A Comparative Sentiment Analysis of Irish Party Manifestos and Parliamentary Speeches (2020–2024)**  
+[Read the project (PDF)](pdf/QTA-Final-Markdown-File-New.pdf)  
+![QTA Screenshot](images/qta-screenshot.png)
 
 ---
 
