@@ -39,6 +39,7 @@
 
 - [Currciulum Vitae](https://github.com/dheneck/dheneck.github.io/blob/master/pdf/New%20CV%20PDF.pdf)
 - [Linkedin](https://www.linkedin.com/in/daniel-heneck-049b28113/)
+- [Undergraduate Academic Record (PDF)](pdf/Academic_Record_Daniel_Heneck.pdf)
 
 ---
 
