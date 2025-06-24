@@ -2,7 +2,7 @@
 
 ---
 
-### Reserach Papers
+### Research Papers
 
 ## Master's Dissertation
 **Minimum Unit Pricing in Ireland: A Quasi-Experimental Evaluation of Alcohol Prices, Consumption and Drink-Driving Offences**  
